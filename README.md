@@ -463,11 +463,6 @@ Este projeto esta licenciado sob a licenca MIT - veja o arquivo [LICENSE](LICENS
 
 ---
 
-## Autor
-
-**Nicolas Marcelino**
----
-
 <p align="center">
   Feito com dedicacao para demonstrar habilidades em desenvolvimento backend com Java e Spring Boot.
 </p>
